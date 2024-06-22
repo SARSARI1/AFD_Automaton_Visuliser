@@ -1,2 +1,0 @@
-# odoraaa
-e-commerce website
